@@ -1,0 +1,14 @@
+/Users/dogo/Desktop/SearchingApp/bin/Debug/net9.0/SearchingApp
+/Users/dogo/Desktop/SearchingApp/bin/Debug/net9.0/SearchingApp.deps.json
+/Users/dogo/Desktop/SearchingApp/bin/Debug/net9.0/SearchingApp.runtimeconfig.json
+/Users/dogo/Desktop/SearchingApp/bin/Debug/net9.0/SearchingApp.dll
+/Users/dogo/Desktop/SearchingApp/bin/Debug/net9.0/SearchingApp.pdb
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.AssemblyInfoInputs.cache
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.AssemblyInfo.cs
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.csproj.CoreCompileInputs.cache
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.dll
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/refint/SearchingApp.dll
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.pdb
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/SearchingApp.genruntimeconfig.cache
+/Users/dogo/Desktop/SearchingApp/obj/Debug/net9.0/ref/SearchingApp.dll
